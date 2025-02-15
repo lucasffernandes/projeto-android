@@ -115,7 +115,7 @@ main h2 {
 
 main {
     background-color: white;
-    min-width: 300px;
+    min-width: 350px;
     max-width: 800px;
     padding: 20px;
     margin: auto;
@@ -151,7 +151,7 @@ main a:hover {
     color: var(--cor4);
 }
 
-main > img {
+main img {
     width: 100%;
 }
 
